@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Noto+Sans+JP:wght@400;600;700&display=swap");
+
+body {
+	font-family: "Inter", sans-serif;
+	background-color: #f3f4f6; /* gray-100 */
+}
+.jp-text {
+	font-family: "Noto Sans JP", sans-serif;
+}
+ruby {
+	ruby-position: over;
+}
+rt {
+	font-size: 0.5em;
+	color: #6b7280;
+}
+/* Utilitas untuk berpindah layar */
+.screen-hidden {
+	display: none !important;
+}
+.fade-in {
+	animation: fadeIn 0.4s ease-in-out forwards;
+}
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+		transform: translateY(5px);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+/* Custom Checkbox */
+.custom-checkbox:checked + div {
+	background-color: #3b82f6;
+	border-color: #3b82f6;
+}
+.custom-checkbox:checked + div svg {
+	display: block;
+}
