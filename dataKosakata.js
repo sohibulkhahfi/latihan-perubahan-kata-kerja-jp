@@ -1922,7 +1922,7 @@ const dataKosakata = [
 		て: {
 			jp: "ドアが閉まって、電車が動いた。",
 			id: "Pintu tertutup, dan kereta bergerak.",
-			form: "<ruby>閉<rt>しま</rt></ruby>まって",
+			form: "<ruby>閉<rt>し</rt></ruby>まって",
 			ruby: "ドアが<ruby>閉<rt>し</rt></ruby>まって、<ruby>出発<rt>しゅっぱつ</rt></ruby>した。",
 		},
 		た: {
