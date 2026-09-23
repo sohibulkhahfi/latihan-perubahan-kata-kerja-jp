@@ -104,7 +104,7 @@ function handleAnswer(selected, clickedBtn) {
 	}
 
 	const answerText = document.getElementById("answer-text");
-	answerText.innerHTML = currentQuestion.て.form;
+	answerText.innerHTML = `<div class="text-6xl font-bold jp-text text-blue-600 transition-opacity duration-300">${currentQuestion.て.form}</div> <p class="text-gray-600 font-medium italic">${currentQuestion.arti[1]}</p>`;
 	answerText.style.opacity = "1";
 
 	document.getElementById("example-jp").innerHTML = currentQuestion.て.ruby;
