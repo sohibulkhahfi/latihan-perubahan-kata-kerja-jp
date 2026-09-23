@@ -4912,10 +4912,10 @@ const dataKosakata = [
 			ruby: "<ruby>彼女<rt>かのじょ</rt></ruby>はいつも<ruby>明<rt>あか</rt></ruby>るく<ruby>笑<rt>わら</rt></ruby>います。",
 		},
 		て: {
-			jp: "そんなに笑わないでください。",
-			id: "Tolong jangan tertawa seperti itu.",
+			jp: "カメラを見て、笑ってください。",
+			id: "Tolong lihat ke kamera dan tersenyum.",
 			form: "<ruby>笑<rt>わら</rt></ruby>って",
-			ruby: "そんなに<ruby>笑<rt>わら</rt></ruby>わないでください。",
+			ruby: "カメラを<ruby>見<rt>み</rt></ruby>て、<ruby>笑<rt>わら</rt></ruby>ってください。",
 		},
 		た: {
 			jp: "テレビを見て大声で笑った。",
@@ -5252,10 +5252,10 @@ const dataKosakata = [
 			ruby: "<ruby>会議<rt>かいぎ</rt></ruby>はもう<ruby>始<rt>はじ</rt></ruby>まっています。",
 		},
 		て: {
-			jp: "授業が始まっているので、静かにしてください。",
-			id: "Karena pelajaran sudah dimulai, tolong tenang.",
+			jp: "授業が始まっていて、教室に入れません。",
+			id: "Karena pelajaran sudah dimulai, sehingga saya tidak bisa masuk ke kelas.",
 			form: "<ruby>始<rt>はじ</rt></ruby>まっていて",
-			ruby: "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まっているので、<ruby>静<rt>しず</rt></ruby>かにしてください。",
+			ruby: "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まっていて、<ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>れません。",
 		},
 		た: {
 			jp: "その時、イベントはもう始まっていた。",
