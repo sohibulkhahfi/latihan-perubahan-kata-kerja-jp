@@ -3486,7 +3486,7 @@ const dataKosakata = [
 		て: {
 			jp: "声を聞いて安心してください。",
 			id: "Tolong merasa tenanglah setelah mendengar suaranya.",
-			form: "<ruby>安心<rt>あんしん</rt></ruby>て",
+			form: "<ruby>安心<rt>あんしん</rt></ruby>して",
 			ruby: "<ruby>声<rt>こえ</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて<ruby>安心<rt>あんしん</rt></ruby>してください。",
 		},
 		た: {
